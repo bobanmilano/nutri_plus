@@ -1,2 +1,2 @@
 # nutri_plus
-NutriPlus - App for analyzing industrial food products by scanning the product barcode. 
+NutriPlus - An Android App for analyzing industrial food products by scanning the product barcode. 
