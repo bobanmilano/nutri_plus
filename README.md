@@ -1,16 +1,10 @@
 # nutri_plus
 
-A new Flutter project.
+An Android Flutter App for analyzing industrial food products by scanning the product barcode. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. install the App from the Groogle Play Store: https://play.google.com/store/apps/details?id=com.bobanmilanovic.nutriplus
+2. run the app and scan a product barcode
+3. get instantly the product infos and the calculated NutriScore
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
