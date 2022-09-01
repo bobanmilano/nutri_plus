@@ -29,12 +29,12 @@ class Helpers {
   }
 
   static AssetImage getNutriImage(String grade) {
-    return grade == null ? AssetImage("assets/images/nutriscore-not-available.png")
+    return grade == null || grade == "" ? AssetImage("assets/images/nutriscore-not-available.png")
         : AssetImage("assets/images/nutri-score-" + grade + ".png");
   }
 
   static AssetImage getNovaImage(String group) {
-    return group == null ? AssetImage("assets/images/nova-unknown.png")
+    return group == null || group == "" ? AssetImage("assets/images/nova-unknown.png")
         : AssetImage("assets/images/novagroup-" + group + ".jpg");
   }
 

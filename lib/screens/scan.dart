@@ -27,7 +27,7 @@ class _ScanPageState extends State<ScanPage> {
     code = "4001686301555"; //haribo
     code = "8076809523776"; //fetucine
     code = "9000295803530"; //felix gurken
-    code = "4001686301555"; //haribo
+
     code = "9002490100070"; //red bull
     code = "5020411121182"; //nutella
     code = "4890008100309"; //coca cola
@@ -35,8 +35,10 @@ class _ScanPageState extends State<ScanPage> {
     code = "9000331697048"; //manner
 
     code = "9000332812822"; //casali schokobananen
-    code = "7622210635396"; //milka brownies
+
     code = "9002490205973"; //red bull
+    code = "4001686301555"; //haribo
+    code = "7622210635396"; //milka brownies
     //code = "87108026"; //mentos fruit// await BarcodeScanner.scan();
     return code;
   }
