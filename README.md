@@ -6,7 +6,7 @@ An Android Flutter App for analyzing industrial food products by scanning the pr
 
 1. install the App from the Google Play Store: https://play.google.com/store/apps/details?id=com.bobanmilanovic.nutriplus
 2. run the App
-3. scan a prodcut barcode
+3. scan a product barcode
 4. get instantly the following product infos:
 
 
